@@ -53,9 +53,9 @@ public class Paras {
 
 <div align="center">
 
-![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamparas-online&show_icons=true&theme=radical&hide_border=true)
+![Paras's GitHub Stats](https://github-readme-stats-eight-mauve-89.vercel.app/api?username=iamparas-online&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamparas-online&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-mauve-89.vercel.app/api/top-langs/?username=iamparas-online&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamparas-online&theme=radical&hide_border=true)
 
