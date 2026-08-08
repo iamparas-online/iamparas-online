@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/commit-invaders-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/commit-invaders-light.svg">
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/commit-invaders-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamparas-online/iamparas-online/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamparas-online/iamparas-online/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/iamparas-online/iamparas-online/output/commit-invaders.svg">
 </picture>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Paras+%F0%9F%91%8B;Software+Developer;Cybersecurity+Enthusiast;Final-Year+B.Tech+CSE+Student)
@@ -53,11 +53,11 @@ public class Paras {
 
 <div align="center">
 
-![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamparas-online&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamparas-online&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamparas-online&theme=radical&hide_border=true)
 
 </div>
 
