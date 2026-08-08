@@ -86,5 +86,6 @@ Machine Learning-based phishing website detection system that analyzes URL featu
 - Modern Cybersecurity Dashboard
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamparas-online/ML-Phishing-Website-Detection)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ml-phishing-website-detection.vercel.app/)
 
 </div>
