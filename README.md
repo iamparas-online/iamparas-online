@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Hi%20There!&fontColor=ffffff&fontSize=40)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/commit-invaders-light.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/commit-invaders-light.svg">
+</picture>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Paras+%F0%9F%91%8B;Software+Developer;Cybersecurity+Enthusiast;Final-Year+B.Tech+CSE+Student)
 
@@ -63,11 +67,5 @@ public class Paras {
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer)
 
 </div>
