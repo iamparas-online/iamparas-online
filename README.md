@@ -69,3 +69,22 @@ public class Paras {
 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
 </div>
+
+## 🚀 Projects
+
+<div align="center">
+
+### 🛡️ PhishGuard
+
+Machine Learning-based phishing website detection system that analyzes URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
+
+**Key Features**
+- URL Feature Engineering
+- Random Forest Classifier
+- Flask Web Application
+- Confidence Score Prediction
+- Modern Cybersecurity Dashboard
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamparas-online/ML-Phishing-Website-Detection)
+
+</div>
