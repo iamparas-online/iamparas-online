@@ -57,7 +57,7 @@ public class Paras {
 
 ![Top Languages](https://github-readme-stats-eight-mauve-89.vercel.app/api/top-langs/?username=iamparas-online&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamparas-online&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=iamparas-online&theme=radical&hide_border=true)
 
 </div>
 
