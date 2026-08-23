@@ -89,4 +89,20 @@ Machine Learning-based phishing website detection system that analyzes URL featu
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamparas-online/ML-Phishing-Website-Detection)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ml-phishing-website-detection.vercel.app/)
 
+### 🎮 Guess or Die: Deadpool Edition
+
+A comic-book styled Hangman game featuring an animated hand-drawn antihero, built with React and Vite — guess words from Marvel, DC, and The Boys before you run out of lives.
+
+**Key Features**
+
+- Animated hangman character with reactive expressions
+- Marvel, DC, The Boys & Mixed Challenge word categories
+- Background music, sound effects & volume control
+- Dynamic win/lose GIFs and sarcastic commentary
+- Score tracking, streaks & persistent high scores
+- Fully responsive comic-book UI
+
+[![View Repository](https://img.shields.io/badge/-VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamparas-online/Guess-or-die-deadpool)
+[![Live Demo](https://img.shields.io/badge/-LIVE%20DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://guess-or-die-deadpool.vercel.app/)
+
 </div>
